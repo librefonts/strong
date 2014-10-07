@@ -1,0 +1,82 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Strong
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.001
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: http://cyreal.org
+    Designer: Roman Shchyukin (Gaslight Type Foundry)
+    Designer url: http://cyreal.org
+    Glyph count: 320
+    Character count: 312
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Strong
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License: Copyright (c) 2011, Cyreal (www.cyreal.org)
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.001
+    Vendor: Cyreal (www.cyreal.org)
+    Vendor url: http://cyreal.org
+    Designer: Roman Shchyukin (Gaslight Type Foundry)
+    Designer url: http://new.myfonts.com/foundry/Gaslight/
+    Glyph count: 320
+    Character count: 312
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
